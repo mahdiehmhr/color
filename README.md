@@ -3,7 +3,7 @@ A simple scratch 3 project to simulation RYB values and mixing them.
 
 ***
 
-###Download
+### Download
 
 Download it <a href="https://github.com/mahdiehmhr/color/releases/download/v0.0.1-alpha/color.sb3">here</a>.
 
